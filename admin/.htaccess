@@ -1,0 +1,3 @@
+CosignProtected On
+AuthType Cosign
+Require valid-user
