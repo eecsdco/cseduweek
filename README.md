@@ -17,8 +17,8 @@ Permissions
 
 Apache must have R+W+E permission (7) on the following directories and files.
 
-cseduweek/
-cseduweek/records.sqlite
+- cseduweek/
+- cseduweek/records.sqlite
 
 Legal
 -----
